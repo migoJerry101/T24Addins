@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>T24</Name>
+		<FullClassName>T24AddIns.Application</FullClassName>
+		<Description> T24 Tools </Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>
+			<!--Your .dll path location-->
+			T24AddIns.dll
+		</Assembly>
+		<AddInId>4FBC7F65-C19D-49C4-8CD1-824C4FA0ACE5</AddInId>
+		<VendorId>K2dDev</VendorId>
+		<VendorDescription>>https://github.com/migoJerry101</VendorDescription>
+	</AddIn>
+</RevitAddIns>
