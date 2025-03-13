@@ -1,9 +1,9 @@
 C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\bin\Debug\Resources\Select.ico
 C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\bin\Debug\T24AddIns.dll
 C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\bin\Debug\T24AddIns.pdb
-C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\obj\Debug\T24Addins.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\obj\Debug\T24AddIns.csproj.AssemblyReference.cache
 C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\obj\Debug\T24AddIns.Features.Tags.Form.TagForm.resources
-C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\obj\Debug\T24Addins.csproj.GenerateResource.cache
-C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\obj\Debug\T24Addins.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\obj\Debug\T24AddIns.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\obj\Debug\T24AddIns.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\obj\Debug\T24AddIns.dll
 C:\Users\ASUS\Documents\GitHub\K2d\New folder\T24Addins\T24Addins\obj\Debug\T24AddIns.pdb

@@ -60,8 +60,22 @@
       <DependentUpon>TagForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Features\Tags\TagsCommand.cs" />
-    <Compile Include="Handlers\Tags\AddTagParameter.cs" />
-    <Compile Include="Handlers\Tags\FamilyOptions.cs" />
+    <Compile Include="Handlers\AddColorToTags\AddColorToTags.cs" />
+    <Compile Include="Handlers\AddColorToTags\ColorConfig.cs" />
+    <Compile Include="Handlers\AddDoorTagHandler\AddDoorTagHandler.cs" />
+    <Compile Include="Handlers\AddScheduleHandler\AddScheduleHandler.cs" />
+    <Compile Include="Handlers\AddScheduleToSheetHandler\AddScheduleToSheetHandler.cs" />
+    <Compile Include="Handlers\AddTagParamHandler\AddTagParameter.cs" />
+    <Compile Include="Handlers\AddTagParamHandler\AddWallTagParameter.cs" />
+    <Compile Include="Handlers\AddTagParamHandler\FamilyOptions.cs" />
+    <Compile Include="Handlers\AddWallTagHandler\AddWallTagHandler.cs" />
+    <Compile Include="Handlers\AddWindowTagHandler\AddWindowTagHandler.cs" />
+    <Compile Include="Handlers\CalculateAreaHandler\CalculateAreaHandler.cs" />
+    <Compile Include="Handlers\ImportTagHandler\ImportTagHandler.cs" />
+    <Compile Include="Handlers\MoveTagFromWallHandler\MoveTagFromWallHandler.cs" />
+    <Compile Include="Handlers\MoveDoorTagHandler\MoveDoorTagHandler.cs" />
+    <Compile Include="Handlers\MoveWallTagHandler\MoveWallTagHandler.cs" />
+    <Compile Include="Handlers\MoveWindowTagHandler\MoveWindowTagHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
